@@ -1,4 +1,4 @@
-# CULT Resources Microservice
+# CULT Chat Microservice
 
 In order to strengthen resilience, scalability and technological freedom for contributors, we establish a microservices architecture. 
 
@@ -20,15 +20,4 @@ You might check the [Deno Main Repo](https://github.com/denoland/deno) and join 
 Please contribute via pull request. 
 
 ## Learnings & Remarks Along This Journey
-
-https://stackoverflow.com/questions/57578775/how-to-change-the-default-port-5000-in-svelte  
-
-```sh
-sed -i'' -e 's/href="\//href=".\//g' public/index.html
-```
-
-https://github.com/bradtraversy/svelte-feedback-app   
-
-https://www.youtube.com/watch?v=3TVy6GdtNuQ   
-
 

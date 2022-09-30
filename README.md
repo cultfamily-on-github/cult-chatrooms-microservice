@@ -1,5 +1,7 @@
-# CULT Chat Microservice
+# CULT Chatrooms Microservice
+In the context of the wallstreetbets thriller we saw how quickly the centralized powerstructures took our subreddit and our discord server down.   
 
+In order to ensure free speech and communication, we establish cultchatrooms. For this usecase it seems crucial to have a decentralized backend - be it polygon (each message would be paid gas fees for which might be even a good thing to improve the efficiency of communication - because people will carefully think about what they send before they send it) or be it ipfs (bulk savings?)
 In order to strengthen resilience, scalability and technological freedom for contributors, we establish a microservices architecture. 
 
 ## Status
@@ -14,9 +16,7 @@ To speed up programming while ensuring beauty we utilize the [UI Kit Attractions
 If you use VS Code as IDE you might want to install the extension named "svelte for vs code".  
 
 ## Backend
-When it comes to off-chain backends [Deno](https://deno.land) is the runtime environment of choice imo.    
-Deno can be perceived as the successor of NodeJS imo.  
-You might check the [Deno Main Repo](https://github.com/denoland/deno) and join the [Deno Community](https://discord.com/invite/deno).
+to be decided --> any low cost (layer 2...) chain like Polygon, Arbitrum, ... might be appropriate in this context.
 
 ## Contribute
 Please contribute via pull request. 
